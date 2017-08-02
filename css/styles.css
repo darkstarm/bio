@@ -12,9 +12,9 @@
   background-size: cover;
   background-position: bottom;
   display: flex;
-  flex-flow: row;
-  align-items: center;
+  flex-flow: column;
   justify-content: center;
+  align-items: center;
 }
 
 .logo{
