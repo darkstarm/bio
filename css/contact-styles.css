@@ -7,12 +7,31 @@ body {
   height: 100vh;
 }
 
+/*Nav Styles*/
+
+.nav-style{
+  margin-bottom: 100px;
+}
+
+.nav-style a{
+  color: #ffffff;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+  background-color: #000000;
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+  background-color: #ffffff;
+  color: #000000;
+}
+
 /*Start footer*/
 
 .footer-style{
   background-color: #ff353f;
   height: 180px;
-  margin-top: 300px;
+  margin-top: 150px;
   overflow: auto;
 }
 
