@@ -1,4 +1,6 @@
-/*Universal styles*/
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
 
 /*Nav styles*/
 
@@ -39,4 +41,17 @@
 
 .hero {
   background-color: #a3a3a3;
+}
+/*Front Page Styles*/
+
+.logo{
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #000000;
+}
+
+.logo-size{
+  height: 300px;
 }
