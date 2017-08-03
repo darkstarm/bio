@@ -15,13 +15,23 @@
 
 /*Fun Styles*/
 
+.circle-con{
+  height: 500px;
+}
+
+.circle{
+  height: 200px;
+  width: 200px;
+  background-color: #e7ef00;
+  border-radius: 75%;
+}
+
 /*Footer styles*/
 
 .footer-style{
   background-color: #ff353f;
   height: 180px;
   overflow: auto;
-  margin-top: 75px;
 }
 
 .foot-logo{
