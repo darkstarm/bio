@@ -1,6 +1,47 @@
 /*Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 
+
+/*Nav styles*/
+
+
+/*Banner Styles*/
+
+.banner{
+  height: 400px;
+  background-image: url('../images/space-banner.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  height: 200px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: #cd5cf9;
+  color: #000;
+}
+
+.nav a{
+  color: #cd5cf9;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+/*Start hero styles*/
+
+.hero {
+  background-color: #a3a3a3;
+}
 /*Front Page Styles*/
 
 .logo{
