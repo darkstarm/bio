@@ -14,31 +14,3 @@
 .logo-size{
   height: 300px;
 }
-
-.light{
-  margin: 50px;
-  font-size: 22px;
-  font-family: 'Dosis', serif;
-  font-weight: bold;
-}
-
-.fluff-size{
-  height: 200px;
-}
-
-.jumbotron {
-  background-color: transparent;
-}
-
-.hero{
-  height: 500px;
-  width: 800px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-}
-
-.banner{
-  height: 400px;
-  border-radius: 8px;
-}
