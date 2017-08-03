@@ -6,3 +6,37 @@ body {
   background-color: #000000;
   height: 100vh;
 }
+
+/*Start footer*/
+
+.footer-style{
+  background-color: #ff353f;
+  height: 180px;
+  margin-top: 300px;
+  overflow: auto;
+}
+
+.foot-logo{
+  height: 120px;
+  margin: 20px;
+}
+
+.my-address{
+  border-left: 1px solid #000000;
+  padding: 15px;
+  margin: 20px;
+  margin-left: 0px;
+}
+
+.social-media{
+  font-size: 32px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px;
+}
+
+.social-media a {
+  color: #ffffff;
+}
