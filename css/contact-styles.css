@@ -1,0 +1,8 @@
+body {
+  background-image: url('../img/nebula.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000;
+  height: 100vh;
+}
