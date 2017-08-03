@@ -77,3 +77,13 @@
 .social-media a {
   color: #ffffff;
 }
+
+@media screen and (max-width: 700px) and (min-width: 520px) {
+    .logo{
+      background-color: #ff353f;
+    }
+    .footer-style{
+      background-color: #000000;
+      color: #f49842;
+    }
+}
