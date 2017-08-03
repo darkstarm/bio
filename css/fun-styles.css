@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+
 /*Nav styles*/
 
 .nav-style a{
@@ -15,17 +17,29 @@
 
 /*Fun Styles*/
 
-.circle-con{
-  height: 500px;
+.roboto {
+  font-family: 'Roboto Condensed';
 }
 
-.circle{
+.what-i{
+  border-bottom: 4px solid #000000;
+}
+
+.restaurante{
   height: 200px;
-  width: 200px;
-  background-color: #e7ef00;
-  border-radius: 75%;
 }
 
+.petstore{
+  width: 360px;
+  margin: 20px;
+  margin-left: 0;
+}
+
+.rest-bord{
+  border-right: 1px solid #000000;
+  padding: 15px;
+  margin: 15px;
+}
 /*Footer styles*/
 
 .footer-style{
