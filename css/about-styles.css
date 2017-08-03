@@ -41,12 +41,13 @@
   word-spacing: 0.5em;
 }
 
-.outside{
+.outside {
   height: 600px;
   margin: 50px;
   margin-bottom: 0px;
   border-radius: 8px;
 }
+
 
 /*Footer styles*/
 

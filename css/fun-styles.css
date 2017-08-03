@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+
+/*Nav styles*/
+
+.nav-style a{
+  color: #ffffff;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+  background-color: #000000;
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/*Fun Styles*/
+
+.roboto {
+  font-family: 'Roboto Condensed';
+}
+
+.what-i{
+  border-bottom: 4px solid #000000;
+}
+
+.restaurante{
+  height: 200px;
+}
+
+.petstore{
+  width: 360px;
+  margin: 20px;
+  margin-left: 0;
+}
+
+.rest-bord{
+  border-right: 1px solid #000000;
+  padding: 15px;
+  margin: 15px;
+}
+/*Footer styles*/
+
+.footer-style{
+  background-color: #ff353f;
+  height: 180px;
+  overflow: auto;
+}
+
+.foot-logo{
+  height: 120px;
+  margin: 20px;
+}
+
+.my-address{
+  border-left: 1px solid #000000;
+  padding: 15px;
+  margin: 20px;
+  margin-left: 0px;
+}
+
+.social-media{
+  font-size: 32px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px;
+}
+
+.social-media a {
+  color: #ffffff;
+}
